@@ -5,10 +5,10 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 						<Text text="view 2"></Text>
-						<Text text="add rmtBranch2"></Text>
+						<Text text="add rmtBranch3"></Text>
 					</content>
 				</Page>
 			</pages>
 		</App>
 	</Shell>
-</mvc:View>
+</mvc:View><
