@@ -8,7 +8,7 @@
 						<Text text="view 2"></Text>
 						<Text text="localBranch name : feature"></Text>
 						
-						<Button text="send"></Button>
+						<Button text="feature send"></Button>
 						
 						<Button text="master button"></Button>
 
