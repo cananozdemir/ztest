@@ -8,7 +8,11 @@
 						<Text text="view 2"></Text>
 						<Text text="localBranch name : feature"></Text>
 						
+<<<<<<< Upstream, based on origin/master
 						<Button text="send"></Button>
+=======
+						<Button text="master button"></Button>
+>>>>>>> 2969cee dev1 add master button branch master
 					</content>
 				</Page>
 			</pages>
