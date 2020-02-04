@@ -5,6 +5,8 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 						<Text text="view 2"></Text>
+						
+						<Text text="view 23"></Text>
 					</content>
 				</Page>
 			</pages>
