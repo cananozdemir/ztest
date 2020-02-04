@@ -7,6 +7,8 @@
 						<Text text="view 1"></Text>
 						<Text text="view 2"></Text>
 						<Text text="localBranch name : feature"></Text>
+						
+						<Button text="send"></Button>
 					</content>
 				</Page>
 			</pages>
